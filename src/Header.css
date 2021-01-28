@@ -1,0 +1,36 @@
+.header{
+    height: 80px;
+    width: 100%;
+    background-color:  rgb(70, 43, 226);
+   
+}
+
+.header__signup{
+    background-color:white;
+    color: black;
+}
+
+.header__login{
+  background-color:white;
+  color: black;
+}
+
+.app__loginContainer{
+    margin-top: 0px;
+}
+
+.app__header{
+    padding: 20px;
+    object-fit: contain;
+    display: flex;
+    justify-content: flex-end;
+    
+  }
+
+ 
+
+.app__signup{
+    display: flex;
+    flex-direction: column;
+   
+  }

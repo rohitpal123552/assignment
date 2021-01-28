@@ -1,0 +1,19 @@
+.card{
+    margin-bottom: 10px;
+}
+
+.list{
+    width: 600px;
+    background-color: white;
+    height: fit-content;
+    border-bottom: 13px solid rgb(70, 43, 226);
+    border-radius: 8px;
+}
+
+.deleteButton {
+  background-color: rgb(70, 43, 226) ;
+  color: #fff;
+  border-radius: 3px;
+  cursor: pointer;
+  
+}
